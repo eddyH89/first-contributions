@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Richard McCormick](https://github.com/rmccormick314)
@@ -21,6 +21,7 @@
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
+- eddyH89
 -[Muhammad Saad]
 - Arman Kumar Jena
 - [Alon Katz](https://github.com/AlonKz1)
